@@ -17,5 +17,4 @@ shasum -a 256 InvoiceAndStatement.lnk
 ```
 ![terminal](https://github.com/christian-taillon/network-exercise/blob/main/network-exercise.png?raw=true)
 
-
 8. Run the file against a Sandbox, YaraRule set for TrickBot or take the Hash to a signature database like [VirusTotal](https://www.virustotal.com/gui/file/387682995c339dd34e1b7943d7bcb84a7c1a3b538ffa10cf5a1555361a40a0fd/detection).
